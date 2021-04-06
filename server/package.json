@@ -2,6 +2,9 @@
   "name": "cryptofun",
   "version": "1.0.0",
   "description": "",
+  "engines": { 
+      "node": "15.11.0" 
+   },
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
